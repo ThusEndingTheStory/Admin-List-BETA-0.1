@@ -9,7 +9,7 @@ setup(
   author_email = 'Not gonna give it',      # Type in your E-Mail
   url = '',   # Provide either the link to your github or to your website
   download_url = 'idk',    # I explain this later on - https://github.com/user/reponame/archive/v_01.tar.gz
-  keywords = ['SOME', 'MEANINGFULL', 'KEYWORDS'],   # Keywords that define your package best
+  keywords = ['so wow', 'much cool', 'grammar doge'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'validators',
           'beautifulsoup4',
